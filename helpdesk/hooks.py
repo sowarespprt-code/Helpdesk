@@ -39,6 +39,6 @@ fixtures = [
                 "HD Ticket-custom_product"
             ]]
         ]
-    }
+    },
 ]
 
